@@ -3,9 +3,10 @@
 
 #### Team members:
 
-1. Parul Joshi
+1. Payal Soman
+2. Parul Joshi
 2. Pratiksha Sharma
-3. Payal Soman
+
 
 ### Steps to run the code:
 
